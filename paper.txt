@@ -2,3 +2,7 @@ Hello.
 
 This is a fun blank paper.txt template.
 Hello.
+
+# References
+
+Blah blah blah blah fake text.
